@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+backend/db.sqlite3
+backend/media/
+.claude/
+.DS_Store
